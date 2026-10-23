@@ -17,7 +17,7 @@ public class Main {
         do {
             System.out.println();
             System.out.println("========================================");
-            System.out.println("          POS TOKO MAJU JAYA");
+            System.out.println("          POS TOKO MA'RUF");
             System.out.println("========================================");
             System.out.println("1. Lihat Daftar Barang");
             System.out.println("2. Mulai Transaksi");
