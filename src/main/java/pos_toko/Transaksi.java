@@ -112,7 +112,7 @@ public class Transaksi {
         struk.append("==================================================\n");
         struk.append("                 TRANSAKSI #")
                 .append(nomorTransaksi).append("\n");
-        struk.append("                 TOKO MAJU JAYA\n");
+        struk.append("                 TOKO MA'RUF\n");
         struk.append("==================================================\n");
 
         struk.append(String.format(
